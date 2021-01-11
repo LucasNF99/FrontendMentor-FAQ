@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-body {
+  color: #1d1e35;
+}
+.template-bg {
+  height: 100vh;
+  background-image: linear-gradient(#A767E8, #6663E7);
+  display: flex;
+  justify-content: center;
+}
+
+
+.o-content {
+  background-color: #ffffff;
+  width: 920px;
+  height: 509px;
+  border-radius: 2rem;
+  align-self: center;
+  display: flex;
+}
+
+.o-img {
+  width: 42%;
+  display: flex;
+  align-self: center;
+}
+
+.o-faq {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 58%;
+  text-align: left;
+}
+
+
+.a-title {
+  margin-bottom: 50px;
+}
+
+.m-list {
+  list-style: none;
+}
+
+.a-list-item {
+  font-weight: bold;
+}
